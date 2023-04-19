@@ -10,7 +10,7 @@ TwitterTokens.py
 *.zip
 *.png
 *.jpg
-*.tff
+*.ttf
 read.txt
 HandleAsciiAPI.py
 base64text.txt
